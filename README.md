@@ -34,7 +34,12 @@ https://ryo.blue/archive/円周率-1万桁/
 
 【使い方】
 
-GitHub上でもできますが，cloneして自身のブラウザで開いた方がレイアウトがわかりやすい気がします．
+以下のリンク先に.htmlのURL( https://github.com/fenachan/pi10000puzzle/blob/main/pi10000_puzzle.html )コピペしてください
+
+・GitHub & BitBucket HTML Preview　
+https://htmlpreview.github.io
+
+リポジトリcloneして見てもよし
 
 1. .htmlファイルをブラウザで開く 文字サイズを調整して列が画面に収まるようにすると見やすい
 2. 任意のピースを1つ選ぶ
